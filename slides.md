@@ -23,6 +23,7 @@ what is no sql, and how to use them
 
 _Soheil Salimi - Professor Zojaji_
 
+_see live at soheilsalimidev.github.io/nosql-presentation_
 ---
 ---
 <Toc />
